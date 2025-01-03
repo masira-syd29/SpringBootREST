@@ -8,7 +8,7 @@ public class SpringBootRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApplication.class, args);
-		System.out.println("Welcome to the REST App");
+		System.out.println("Welcome to the REST App!");
 	}
 
 }
